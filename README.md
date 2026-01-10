@@ -1,7 +1,7 @@
 # Hi there, I'm Afsha Anjum 👋
 
 🎓 **M.Sc. Data Science student** at **Aligarh Muslim University**  
-    Background in **Mathematics & Statistics**  
+    Background in **Mathematics**  
     Passionate about **Machine Learning, Deep learning NLP, and Data-driven problem solving**
 
 I enjoy building end-to-end machine learning projects, performing exploratory data analysis, and transforming raw data into meaningful insights.
