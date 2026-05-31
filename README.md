@@ -38,7 +38,7 @@ I enjoy building end-to-end AI and machine learning projects — from multimodal
 
 ## 🚀 Featured Projects
 
-### 🖼️ Image Captioning Refinement — M.Sc. Dissertation
+### 🖼️ Image Captioning Refinement — M.Sc. Project
 A six-stage multi-model fusion pipeline that generates, scores, and refines image captions using Florence-2-Large, BLIP ITM, Jina Reranker M0, Cosine Similarity, majority voting, and Qwen2.5-1.5B-Instruct — evaluated on the Flickr8k benchmark (8,091 images) and deployed as a live web app.
 
 🔗 [GitHub Repo](https://github.com/Afsha001/image-captioning-refinement) · [Live Demo](https://huggingface.co/spaces/Afsha001/image-captioning-refinement)
