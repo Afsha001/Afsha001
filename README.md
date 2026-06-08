@@ -38,7 +38,7 @@ I enjoy building end-to-end AI and machine learning projects — from multimodal
 
 ## 🚀 Featured Projects
 
-### 🖼️ Image Captioning Refinement — M.Sc. Project
+### 🖼️ Image Captioning Refinement System Using Deep learning and Computer Vision — M.Sc. Project
 A six-stage multi-model fusion pipeline that generates, scores, and refines image captions using Florence-2-Large, BLIP ITM, Jina Reranker M0, Cosine Similarity, majority voting, and Qwen2.5-1.5B-Instruct — evaluated on the Flickr8k benchmark (8,091 images) and deployed as a live web app.
 
 🔗 [GitHub Repo](https://github.com/Afsha001/Image-Captioning-refinement-System) · [Live Demo](https://huggingface.co/spaces/Afsha001/Image_captioning)
@@ -51,6 +51,15 @@ NLP-based classification system using TF-IDF vectorization and supervised ML mod
 🔗 [GitHub Repo](https://github.com/Afsha001/fake-news-detection-ML)
 
 ---
+
+### 📊 Hyperliquid Sentiment Analysis
+
+Analysis of how the Bitcoin Fear and Greed Index influences trader behavior
+and performance across 125,830 on-chain trades on Hyperliquid — covering
+win rate, position sizing, trade direction, and profitability across all
+five sentiment regimes with statistical significance testing.
+
+🔗 [GitHub Repo](https://github.com/yourusername/hyperliquid-sentiment-analysis)
 
 ## 🧪 Experience
 
