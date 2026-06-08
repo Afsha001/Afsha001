@@ -59,7 +59,7 @@ and performance across 125,830 on-chain trades on Hyperliquid — covering
 win rate, position sizing, trade direction, and profitability across all
 five sentiment regimes with statistical significance testing.
 
-🔗 [GitHub Repo](https://github.com/yourusername/hyperliquid-sentiment-analysis)
+🔗 [GitHub Repo](https://github.com/Afsha001/hyperliquid-sentiment-analysis)
 
 ## 🧪 Experience
 
