@@ -1,27 +1,56 @@
-# Hi there, I'm Afsha Anjum 👋
+<h1 align="center">Hi 👋, I'm Afsha Anjum</h1>
 
-🎓 **M.Sc. Data Science student** at **Aligarh Muslim University**
-Background in **Mathematics**
-Passionate about **Machine Learning, Deep Learning, Computer Vision, and Data-driven problem solving**
+<h3 align="center">
+Data Scientist • Machine Learning Engineer • Computer Vision & Generative AI Enthusiast
+</h3>
 
-I enjoy building end-to-end AI and machine learning projects — from multimodal vision-language systems to text classification — and turning raw data into meaningful, deployable solutions.
+<p align="center">
+Passionate about building AI systems that combine Machine Learning, Computer Vision, and Large Language Models to solve real-world problems.
+</p>
 
 ---
 
-## 🔧 Tools & Technologies
+## 🚀 About Me
 
+I am a recent M.Sc. Data Science graduate from Aligarh Muslim University (AMU) with a strong interest in Machine Learning, Computer Vision, Deep Learning, and Generative AI.
+
+My work focuses on developing intelligent systems that can understand and generate meaningful insights from data, images, and text. I enjoy building end-to-end AI solutions, from data collection and preprocessing to model development, evaluation, and deployment.
+
+Recently, I worked on a multimodal Image Captioning Refinement System that combines Florence-2, BLIP, Qwen, Jina Reranker, and embedding-based evaluation techniques to generate high-quality image descriptions. I am also interested in LLM evaluation, Vision-Language Models, and AI-powered applications.
+
+Currently, I am seeking opportunities as a Data Science Intern, AI Intern, or Entry-Level Data Scientist where I can contribute, learn, and grow while solving impactful problems.
+
+## 🛠️ Tech Stack
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Machine Learning & Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Generative AI & VLMs
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge)
+![BLIP](https://img.shields.io/badge/BLIP-Vision_Language_Model-blue?style=for-the-badge)
+![Florence-2](https://img.shields.io/badge/Florence--2-Computer_Vision-green?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-LLM-red?style=for-the-badge)
+
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-Jina-009191?style=flat&logo=fastapi&logoColor=white)
+
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -89,5 +118,12 @@ Oct 2025 – Nov 2025
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anjuafsha001@gmail.com)
 
 ---
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Afsha001&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Afsha001&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsha001&layout=compact&theme=tokyonight)
 
 ⭐ *Feel free to explore my repositories and connect with me for collaboration or opportunities in Data Science & Machine Learning.*
