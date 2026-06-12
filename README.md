@@ -118,12 +118,6 @@ Oct 2025 – Nov 2025
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anjuafsha001@gmail.com)
 
 ---
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Afsha001&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Afsha001&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsha001&layout=compact&theme=tokyonight)
 
 ⭐ *Feel free to explore my repositories and connect with me for collaboration or opportunities in Data Science & Machine Learning.*
