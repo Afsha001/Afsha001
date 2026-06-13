@@ -37,6 +37,7 @@ Passionate about building AI systems that combine Machine Learning, Computer Vis
 - AI Agents & Multi-Agent Systems
 - LLM Orchestration
 - Production-ready AI Applications
+---
 
 ### 🖼️ Image Captioning Refinement System Using Deep learning and Computer Vision — M.Sc. Project
 A six-stage multi-model fusion pipeline that generates, scores, and refines image captions using Florence-2-Large, BLIP ITM, Jina Reranker M0, Cosine Similarity, majority voting, and Qwen2.5-1.5B-Instruct — evaluated on the Flickr8k benchmark (8,091 images) and deployed as a live web app.
