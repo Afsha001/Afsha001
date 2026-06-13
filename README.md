@@ -10,6 +10,50 @@ Passionate about building AI systems that combine Machine Learning, Computer Vis
 
 ---
 
+## 📫 Connect With Me
+<p align="center">
+
+<a href="https://afshanjum.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/afsha-anjum-aaa728350/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anjuafsha001@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🖼️ Image Captioning Refinement System Using Deep learning and Computer Vision — M.Sc. Project
+A six-stage multi-model fusion pipeline that generates, scores, and refines image captions using Florence-2-Large, BLIP ITM, Jina Reranker M0, Cosine Similarity, majority voting, and Qwen2.5-1.5B-Instruct — evaluated on the Flickr8k benchmark (8,091 images) and deployed as a live web app.
+
+🔗 [GitHub Repo](https://github.com/Afsha001/Image-Captioning-refinement-System) · [Live Demo](https://huggingface.co/spaces/Afsha001/Image_captioning)
+
+---
+
+### 📰 Fake News Detection using Machine Learning
+NLP-based classification system using TF-IDF vectorization and supervised ML models to detect fake news articles. Compared Logistic Regression, SVM, Naive Bayes, and Decision Tree across labeled datasets.
+
+🔗 [GitHub Repo](https://github.com/Afsha001/fake-news-detection-ML)
+
+---
+
+### 📊 Hyperliquid Sentiment Analysis
+
+Analysis of how the Bitcoin Fear and Greed Index influences trader behavior
+and performance across 125,830 on-chain trades on Hyperliquid — covering
+win rate, position sizing, trade direction, and profitability across all
+five sentiment regimes with statistical significance testing.
+
+🔗 [GitHub Repo](https://github.com/Afsha001/hyperliquid-sentiment-analysis)
+
 ## 🚀 About Me
 
 I am a recent M.Sc. Data Science graduate from Aligarh Muslim University (AMU) with a strong interest in Machine Learning, Computer Vision, Deep Learning, and Generative AI.
@@ -65,31 +109,6 @@ Currently, I am seeking opportunities as a Data Science Intern, AI Intern, or En
 
 ---
 
-## 🚀 Featured Projects
-
-### 🖼️ Image Captioning Refinement System Using Deep learning and Computer Vision — M.Sc. Project
-A six-stage multi-model fusion pipeline that generates, scores, and refines image captions using Florence-2-Large, BLIP ITM, Jina Reranker M0, Cosine Similarity, majority voting, and Qwen2.5-1.5B-Instruct — evaluated on the Flickr8k benchmark (8,091 images) and deployed as a live web app.
-
-🔗 [GitHub Repo](https://github.com/Afsha001/Image-Captioning-refinement-System) · [Live Demo](https://huggingface.co/spaces/Afsha001/Image_captioning)
-
----
-
-### 📰 Fake News Detection using Machine Learning
-NLP-based classification system using TF-IDF vectorization and supervised ML models to detect fake news articles. Compared Logistic Regression, SVM, Naive Bayes, and Decision Tree across labeled datasets.
-
-🔗 [GitHub Repo](https://github.com/Afsha001/fake-news-detection-ML)
-
----
-
-### 📊 Hyperliquid Sentiment Analysis
-
-Analysis of how the Bitcoin Fear and Greed Index influences trader behavior
-and performance across 125,830 on-chain trades on Hyperliquid — covering
-win rate, position sizing, trade direction, and profitability across all
-five sentiment regimes with statistical significance testing.
-
-🔗 [GitHub Repo](https://github.com/Afsha001/hyperliquid-sentiment-analysis)
-
 ## 🧪 Experience
 
 **LLM Post-Training Intern — Ethara.ai**
@@ -111,13 +130,8 @@ Oct 2025 – Nov 2025
 
 ---
 
-## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afsha-anjum-aaa728350/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Afsha001)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anjuafsha001@gmail.com)
 
----
 
 
 ⭐ *Feel free to explore my repositories and connect with me for collaboration or opportunities in Data Science & Machine Learning.*
