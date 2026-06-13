@@ -31,6 +31,13 @@ Passionate about building AI systems that combine Machine Learning, Computer Vis
 
 ## 🚀 Featured Projects
 
+### 🚧 Currently Working On
+
+- Agentic RAG Pipelines
+- AI Agents & Multi-Agent Systems
+- LLM Orchestration
+- Production-ready AI Applications
+
 ### 🖼️ Image Captioning Refinement System Using Deep learning and Computer Vision — M.Sc. Project
 A six-stage multi-model fusion pipeline that generates, scores, and refines image captions using Florence-2-Large, BLIP ITM, Jina Reranker M0, Cosine Similarity, majority voting, and Qwen2.5-1.5B-Instruct — evaluated on the Flickr8k benchmark (8,091 images) and deployed as a live web app.
 
@@ -54,6 +61,8 @@ five sentiment regimes with statistical significance testing.
 
 🔗 [GitHub Repo](https://github.com/Afsha001/hyperliquid-sentiment-analysis)
 
+---
+
 ## 🚀 About Me
 
 I am a recent M.Sc. Data Science graduate from Aligarh Muslim University (AMU) with a strong interest in Machine Learning, Computer Vision, Deep Learning, and Generative AI.
@@ -63,6 +72,8 @@ My work focuses on developing intelligent systems that can understand and genera
 Recently, I worked on a multimodal Image Captioning Refinement System that combines Florence-2, BLIP, Qwen, Jina Reranker, and embedding-based evaluation techniques to generate high-quality image descriptions. I am also interested in LLM evaluation, Vision-Language Models, and AI-powered applications.
 
 Currently, I am seeking opportunities as a Data Science Intern, AI Intern, or Entry-Level Data Scientist where I can contribute, learn, and grow while solving impactful problems.
+
+---
 
 ## 🛠️ Tech Stack
 
